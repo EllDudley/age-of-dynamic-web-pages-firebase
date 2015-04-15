@@ -1,8 +1,3 @@
-
-## Age of Dynamic Web Pages - FireBase
-
-![enter image description here](http://webix.com/wp-content/uploads/2015/04/Firebase_3.png)
-
 > TL; DR  Grab the final package from  https://github.com/webix-hub/webix-firebase
 
 ### Dynamic Web
